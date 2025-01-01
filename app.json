@@ -30,6 +30,11 @@
     },
     "experiments": {
       "typedRoutes": true
+    },
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
     }
   }
 }
