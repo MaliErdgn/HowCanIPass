@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "eduscore",
+    "name": "EduScore",
     "slug": "eduscore",
-    "entryPoint": "./app/index.tsx",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -17,7 +16,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.malierdgn.eduscore"
+      "package": "com.malierdgn.eduScore"
     },
     "extra": {
       "displayName": "EduScore",
